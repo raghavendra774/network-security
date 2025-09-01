@@ -3,4 +3,6 @@ pandas
 numpy
 setuptools
 certifi
+datetime
 pymongo[srv]
+scikit-learn
