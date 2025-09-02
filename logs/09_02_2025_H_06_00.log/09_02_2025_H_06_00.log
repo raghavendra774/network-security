@@ -1,0 +1,10 @@
+[2025-09-02 14:06:01,722] 15 root INFO - Initiate the data ingestion
+[2025-09-02 14:06:03,930] 68 root INFO - Performed train test split on dataframe
+[2025-09-02 14:06:03,930] 70 root INFO - Exited split_data_as_train_test methos of Data_Ingestion class
+[2025-09-02 14:06:03,931] 78 root INFO - exporting 
+[2025-09-02 14:06:03,989] 18 root INFO - Data Initilization completed
+[2025-09-02 14:06:03,998] 21 root INFO - initiate data validation
+[2025-09-02 14:06:04,099] 32 root INFO - Required number od columns = 2
+[2025-09-02 14:06:04,100] 33 root INFO - Data frame as columns:31
+[2025-09-02 14:06:04,123] 32 root INFO - Required number od columns = 2
+[2025-09-02 14:06:04,124] 33 root INFO - Data frame as columns:31

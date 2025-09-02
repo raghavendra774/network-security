@@ -6,3 +6,5 @@ certifi
 datetime
 pymongo[srv]
 scikit-learn
+dill
+pyaml
