@@ -1,0 +1,11 @@
+[2025-09-08 07:51:01,245] 34 root INFO - start DataIngestion
+[2025-09-08 07:51:04,010] 68 root INFO - Performed train test split on dataframe
+[2025-09-08 07:51:04,011] 70 root INFO - Exited split_data_as_train_test methos of Data_Ingestion class
+[2025-09-08 07:51:04,012] 78 root INFO - exporting 
+[2025-09-08 07:51:04,094] 37 root INFO - Data Ingestion complete and artifact : DataIngestionArtifact(trained_file_path='Artifacts\\09_08_2025_07_50_40\\data_ingestion\\ingested\\train.csv', tested_file_path='Artifacts\\09_08_2025_07_50_40\\data_ingestion\\ingested\\test.csv')
+[2025-09-08 07:51:04,214] 32 root INFO - Required number od columns = 2
+[2025-09-08 07:51:04,215] 33 root INFO - Data frame as columns:31
+[2025-09-08 07:51:04,216] 32 root INFO - Required number od columns = 2
+[2025-09-08 07:51:04,216] 33 root INFO - Data frame as columns:31
+[2025-09-08 07:51:04,567] 30 root INFO - Entered get data_transformer_obj method of transformation class
+[2025-09-08 07:51:04,567] 35 root INFO - initialized KNN Imputer

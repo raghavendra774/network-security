@@ -8,4 +8,7 @@ pymongo[srv]
 scikit-learn
 dill
 mlflow
+dagshub
+fastapi
+unicorn
 pyaml

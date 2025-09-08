@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Downloads/Network%20Security/mlruns/0/6016ac2572e34ffd8cb3dbdb1afa737c/artifacts
+end_time: 1757332512260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6016ac2572e34ffd8cb3dbdb1afa737c
+run_name: receptive-dog-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757332503805
+status: 3
+tags: []
+user_id: ragha

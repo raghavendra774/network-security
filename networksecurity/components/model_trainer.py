@@ -21,6 +21,10 @@ from sklearn.ensemble import (
     RandomForestClassifier
 )
 import mlflow
+# import dagshub
+
+
+# dagshub.init(repo_owner='raghavendra774', repo_name='network-security', mlflow=True)
 
 
 class ModelTrainer:
@@ -114,6 +118,8 @@ class ModelTrainer:
         Network_Model = NetworkModel(preprocessor=preProcessor, model=best_model)
 
         save_object(self.model_trainer_config. model_trainer_file_path, obj= Network_Model)
+
+        save_object("final_model/model.pkl",best_model)
 
         model_trainer_artifact = ModelTrainerArtifact(trained_model_file_path=self.model_trainer_config.model_trainer_file_path, train_metric_artifact=classification_train_metric, test_metric_artifact= classification_test_metric)
 

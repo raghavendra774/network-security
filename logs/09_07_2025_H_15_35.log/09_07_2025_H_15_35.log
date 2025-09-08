@@ -1,0 +1,21 @@
+[2025-09-07 21:16:02,428] 1025 httpx INFO - HTTP Request: POST https://dagshub.com/login/oauth/middleman "HTTP/1.1 200 OK"
+[2025-09-07 21:16:02,986] 1025 httpx INFO - HTTP Request: POST https://dagshub.com/login/oauth/access_token "HTTP/1.1 200 OK"
+[2025-09-07 21:16:03,793] 1025 httpx INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-09-07 21:16:03,801] 107 dagshub INFO - Accessing as raghavendra774
+[2025-09-07 21:16:04,632] 1025 httpx INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/raghavendra774/network-security "HTTP/1.1 200 OK"
+[2025-09-07 21:16:05,305] 1025 httpx INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2025-09-07 21:16:05,332] 107 dagshub INFO - Initialized MLflow to track repo "raghavendra774/network-security"
+[2025-09-07 21:16:05,334] 107 dagshub INFO - Repository raghavendra774/network-security initialized!
+[2025-09-07 21:16:05,334] 18 root INFO - Initiate the data ingestion
+[2025-09-07 21:16:07,913] 68 root INFO - Performed train test split on dataframe
+[2025-09-07 21:16:07,913] 70 root INFO - Exited split_data_as_train_test methos of Data_Ingestion class
+[2025-09-07 21:16:07,915] 78 root INFO - exporting 
+[2025-09-07 21:16:08,017] 21 root INFO - Data Initilization completed
+[2025-09-07 21:16:08,032] 24 root INFO - initiate data validation
+[2025-09-07 21:16:08,142] 32 root INFO - Required number od columns = 2
+[2025-09-07 21:16:08,143] 33 root INFO - Data frame as columns:31
+[2025-09-07 21:16:08,143] 32 root INFO - Required number od columns = 2
+[2025-09-07 21:16:08,143] 33 root INFO - Data frame as columns:31
+[2025-09-07 21:16:08,378] 27 root INFO - initiate the data validation
+[2025-09-07 21:16:08,419] 30 root INFO - Entered get data_transformer_obj method of transformation class
+[2025-09-07 21:16:08,419] 35 root INFO - initialized KNN Imputer
