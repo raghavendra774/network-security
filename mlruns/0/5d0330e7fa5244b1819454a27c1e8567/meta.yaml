@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ragha/Downloads/Network%20Security/mlruns/0/5d0330e7fa5244b1819454a27c1e8567/artifacts
+end_time: 1757291836302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d0330e7fa5244b1819454a27c1e8567
+run_name: gaudy-ray-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757291836127
+status: 4
+tags: []
+user_id: ragha

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ragha/Downloads/Network%20Security/mlruns/0/models/m-e16210c0e45442f69a873c3db332b1ce/artifacts
+creation_timestamp: 1757292347669
+experiment_id: '0'
+last_updated_timestamp: 1757292358085
+model_id: m-e16210c0e45442f69a873c3db332b1ce
+model_type: null
+name: model
+source_run_id: 06a41af267ae4a19b27a5241140447f9
+status: 2
+status_message: null

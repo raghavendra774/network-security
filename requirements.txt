@@ -7,4 +7,5 @@ datetime
 pymongo[srv]
 scikit-learn
 dill
+mlflow
 pyaml

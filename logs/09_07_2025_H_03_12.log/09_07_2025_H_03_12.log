@@ -1,0 +1,13 @@
+[2025-09-07 18:03:13,867] 18 root INFO - Initiate the data ingestion
+[2025-09-07 18:03:15,867] 68 root INFO - Performed train test split on dataframe
+[2025-09-07 18:03:15,867] 70 root INFO - Exited split_data_as_train_test methos of Data_Ingestion class
+[2025-09-07 18:03:15,868] 78 root INFO - exporting 
+[2025-09-07 18:03:15,921] 21 root INFO - Data Initilization completed
+[2025-09-07 18:03:15,933] 24 root INFO - initiate data validation
+[2025-09-07 18:03:16,048] 32 root INFO - Required number od columns = 2
+[2025-09-07 18:03:16,049] 33 root INFO - Data frame as columns:31
+[2025-09-07 18:03:16,072] 32 root INFO - Required number od columns = 2
+[2025-09-07 18:03:16,072] 33 root INFO - Data frame as columns:31
+[2025-09-07 18:03:16,351] 27 root INFO - initiate the data validation
+[2025-09-07 18:03:16,388] 30 root INFO - Entered get data_transformer_obj method of transformation class
+[2025-09-07 18:03:16,388] 35 root INFO - initialized KNN Imputer
